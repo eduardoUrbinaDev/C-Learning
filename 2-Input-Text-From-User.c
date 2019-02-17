@@ -8,4 +8,5 @@ int main() {
   printf("Ingrese el primer numero: ");
   scanf("% ", numeroUno);
  
+  printf("");
 }
