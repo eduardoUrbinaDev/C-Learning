@@ -1,0 +1,18 @@
+// Instrucciones: Realizar un programa que EVALÚE la edad puesta por el usuario. 
+//                Si la edad es igual o mayor a 18 años, imprime el mensaje: "This 
+//                person can come in". De lo contrario, imprime: "This person is not 
+//                allowed in here". 
+
+#include<stdio.h>
+
+int main() {
+    int age; 
+    
+    printf("Enter person's age: ");
+   
+    if() {
+    
+    } else {
+    
+    }
+}
