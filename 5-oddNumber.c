@@ -10,7 +10,7 @@ int main() {
     int currentNumber;
     scanf();
     if(currentNumber % 2 != 0) {
-        printf("The number is odd, multiply it by 3 and add 1:);
+        printf("The number is odd, result is:);
     } else {
         printf("The number is not odd");
     }
